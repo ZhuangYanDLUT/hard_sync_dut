@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="xsens_imu_driver" type="xsens_imu_driver" name="xsens_imu_driver" output="screen" />
+</launch>
